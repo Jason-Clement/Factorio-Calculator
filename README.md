@@ -10,6 +10,7 @@ This calculator will show which producers are required to make all the component
 - Number of Seconds to Make One of the Item
 - Production / Second
 - Production / Minute
+
 Changing any one of these auto-calculates the other three.
 
 #### Producer Types
@@ -17,6 +18,7 @@ The type of producer can be set for:
 - Assembly Machines
 - Furnaces
 - Miners
+
 The type of machine chosen will affect the time since some machines produce faster than others.
 
 #### Producer Inclusion/Exclusion
@@ -27,6 +29,7 @@ Further you can include/exclude the following types of machines:
 - Miners
 - Pumps
 - Refineries
+
 For instance, with miners turned off, it won't show you how many miners are required to make the required number of specified plates within the specified time.
 
 #### Overrides
@@ -36,6 +39,7 @@ To account for beacons and modules, a static time and production bonus may be en
 - Furnaces
 - Miners
 - Refineries
+
 Plug in your average speed and bonus for whichever combination of beacons and modules you are using.
 
 #### Overhead
